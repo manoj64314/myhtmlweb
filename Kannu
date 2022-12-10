@@ -1,4 +1,10 @@
 Hi Everyone this is Kannu html website .
-this line is added by onerepo developer.
+<<<<<<< HEAD
+this line is added by onerepo developer
+I have added this line as imp line by onerepo...
 this line is added by second developer.
+=======
+this line is added by onerepo developer
+I have added this line as imp line by onerepo..
+>>>>>>> 1f9172c ( one devops line)
 Thank you !!
